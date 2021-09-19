@@ -30,9 +30,13 @@ instagram: @x_raspo / telegram: @erfan_xm
 1. apt-get install python3
 2. apt-get install git
 3. git clone https://github.com/erfannoori/Cam-Dumper.git
-4. pip install -r requirements.txt or pip3 install -r requirements.txt
-5. pip install colorama
-6. python3 Cam\ Dumper.py
+4. cd Cam-Dumper
+5. pip3 install -r requirements.txt
+6. pip3 install colorama
+7. python3 Cam\ Dumper.py
+
+**Nota: por padrão, o repositório será clonado para sua /home** 
+**Defina um diretório personalizado antes de executar o git clone** 
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 ![Screenshot_2021-07-07_10_55_24](https://user-images.githubusercontent.com/77107767/124800998-5d9b0c80-df67-11eb-8f7f-2ca5dbe0209c.png)
